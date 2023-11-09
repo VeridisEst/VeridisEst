@@ -1,4 +1,12 @@
-### Hi there 👋
+# Mommy's special little boy
+Hi! Welcome! 
+Take a look around
+
+- I like: tinkering, security, public speaking and pretending to know what I'm doing
+- Usually I forgot what I was working on and only pick something up months later, so I write README's mostly for myself. (Contributions welcome.)
+- My goal is to do most - if not all - edits from a command line, because I like challenges, command lines and dark mode.
+- All input is welcome! Please help, I am lost!
+- ⚡ Fun fact: 90% of all Koala's have chlamydia
 
 <!--
 **VeridisEst/VeridisEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
